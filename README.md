@@ -1,24 +1,24 @@
-﻿# 👋 Olá! Eu sou Lucas Marques | Hi! I'm Lucas Marques
+# 👋 Olá! Eu sou Lucas Marques
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B4F7C,100:7ED321&height=180&section=header&text=Ajuda%20Ecommerce&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="banner Ajuda Ecommerce" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2800&pause=900&color=7ED321&center=true&vCenter=true&width=900&lines=Lojas+virtuais+com+foco+em+resultado;Marketplaces+and+ERP+integrations;Ecommerce+operations+with+performance+focus" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2800&pause=900&color=7ED321&center=true&vCenter=true&width=900&lines=Lojas+virtuais+com+foco+em+resultado;Integra%C3%A7%C3%B5es+com+marketplaces+e+ERP;Opera%C3%A7%C3%B5es+de+ecommerce+com+foco+em+performance" alt="animação de texto" />
 </p>
 
 ---
 
-## 📬 Contato | Contact
+## 📬 Contato
 
-- **Nome | Name:** Lucas Marques
+- **Nome:** Lucas Marques
 - **E-mail:** [lucas@ajudaecom.com.br](mailto:lucas@ajudaecom.com.br)
 - **Instagram:** [@lucas0.exe](https://www.instagram.com/lucas0.exe/)
 
 ---
 
-## 💼 Sobre o meu trabalho (PT)
+## 💼 Sobre o meu trabalho
 
 Atuo na **Agência Ajuda Ecommerce**, desenvolvendo e evoluindo operações digitais para marcas que querem vender mais e melhor.
 
@@ -31,33 +31,20 @@ No dia a dia, trabalhamos com:
 
 ---
 
-## 💼 About my work (EN)
-
-I work at **Ajuda Ecommerce Agency**, building and improving digital operations for brands that want to sell better and scale.
-
-Our daily work includes:
-
-- Building and structuring **ecommerce online stores**
-- Integrations with **marketplaces** such as **Mercado Livre (MELI)**, **Shopee**, and others
-- Integrations with **ERPs** like **Bling**, **Olist**, and partner platforms
-- Catalog, order flow, inventory, and performance optimization
-
----
-
-## 📊 Métricas do GitHub | GitHub Metrics
+## 📊 Métricas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ajudaecommerce&show_icons=true&theme=transparent&title_color=7ED321&text_color=ffffff&icon_color=7ED321&border_color=0B4F7C" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Ajudaecommerce&theme=transparent&ring=7ED321&fire=7ED321&currStreakLabel=7ED321&sideLabels=ffffff&dates=ffffff&border=0B4F7C" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ajudaecommerce&show_icons=true&theme=transparent&title_color=7ED321&text_color=ffffff&icon_color=7ED321&border_color=0B4F7C" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Lucas-Ajudaecommerce&theme=transparent&ring=7ED321&fire=7ED321&currStreakLabel=7ED321&sideLabels=ffffff&dates=ffffff&border=0B4F7C" alt="Sequência do GitHub" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ajudaecommerce&layout=compact&theme=transparent&title_color=7ED321&text_color=ffffff&border_color=0B4F7C" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ajudaecommerce&layout=compact&theme=transparent&title_color=7ED321&text_color=ffffff&border_color=0B4F7C" alt="Principais idiomas" />
 </p>
 
 ---
 
-## 🚀 Principais frentes | Main Focus Areas
+## 🚀 Principais frentes
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ecommerce-Lojas%20Virtuais-0B4F7C?style=for-the-badge&logo=shopify&logoColor=white" alt="Lojas Virtuais" />
@@ -67,7 +54,7 @@ Our daily work includes:
 
 ---
 
-## 🧩 Tecnologias e ferramentas | Tools & Technologies
+## 🧩 Tecnologias e ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,github,vscode" alt="skills" />
@@ -75,21 +62,13 @@ Our daily work includes:
 
 ---
 
-## 📌 Objetivo (PT)
+## 📌 Objetivo
 
 Transformar operações digitais em estruturas mais organizadas, integradas e escaláveis, com foco em:
 
 - Melhor experiência de compra
 - Aumento de conversão
 - Eficiência operacional
-
-## 📌 Goal (EN)
-
-Turn digital operations into organized, integrated, and scalable structures with focus on:
-
-- Better shopping experience
-- Higher conversion rates
-- Operational efficiency
 
 ---
 
