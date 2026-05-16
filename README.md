@@ -50,10 +50,6 @@ Atuo na **Ajuda Ecommerce** ajudando marcas a transformarem operacoes travadas e
   <img height="170" src="https://streak-stats.demolab.com?user=Lucas-Ajudaecommerce&theme=transparent&ring=7ED321&fire=7ED321&currStreakLabel=7ED321&sideLabels=ffffff&dates=ffffff&border=0B4F7C" alt="Sequencia do GitHub" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Ajudaecommerce&theme=github_dark" alt="Principais idiomas" />
-</p>
-
 ## Tecnologias e ferramentas
 
 <p align="center">
