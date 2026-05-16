@@ -35,36 +35,23 @@ Atuo na **Ajuda Ecommerce** ajudando marcas a transformarem operacoes travadas e
 
 ---
 
-## Commit Quest (joguinho dos commits)
+## Joguinho das contribuicoes
 
-**Missao atual:** manter consistencia e evoluir o projeto a cada atualizacao.
-
-- **XP de commits:** `2`
-- **Nivel atual:** `Iniciante em modo progresso`
-- **Proximo nivel:** `5 commits`
-
-### Ultimos movimentos
-
-| Data | Commit | Acao |
-|---|---|---|
-| 2026-05-09 | `e308532` | Ajusta README: metricas e conteudo somente em portugues |
-| 2026-05-09 | `bbaf1df` | Criar README de Perfil |
-
-### Desafio da semana
-
-`Meta: +3 commits para liberar o proximo nivel.`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lucas-Ajudaecommerce/Lucas-Ajudaecommerce/output/github-contribution-grid-snake.svg" alt="Snake no grafico de contribuicoes" />
+</p>
 
 ---
 
 ## Metricas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ajudaecommerce&show_icons=true&theme=transparent&title_color=7ED321&text_color=ffffff&icon_color=7ED321&border_color=0B4F7C" alt="Estatisticas do GitHub" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucas-Ajudaecommerce&show_icons=true&theme=transparent&title_color=7ED321&text_color=ffffff&icon_color=7ED321&border_color=0B4F7C&cache_seconds=1800" alt="Estatisticas do GitHub" />
   <img height="170" src="https://streak-stats.demolab.com?user=Lucas-Ajudaecommerce&theme=transparent&ring=7ED321&fire=7ED321&currStreakLabel=7ED321&sideLabels=ffffff&dates=ffffff&border=0B4F7C" alt="Sequencia do GitHub" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ajudaecommerce&layout=compact&theme=transparent&title_color=7ED321&text_color=ffffff&border_color=0B4F7C" alt="Principais idiomas" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-Ajudaecommerce&layout=compact&theme=transparent&title_color=7ED321&text_color=ffffff&border_color=0B4F7C&cache_seconds=1800" alt="Principais idiomas" />
 </p>
 
 ## Tecnologias e ferramentas
